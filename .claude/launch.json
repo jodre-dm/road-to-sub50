@@ -1,0 +1,1 @@
+{"version":"0.0.1","configurations":[{"name":"sub50","runtimeExecutable":"node","runtimeArgs":["tools/serve.mjs","8765"],"port":8765}]}
